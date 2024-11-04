@@ -1,0 +1,17 @@
+com\pluralsight\tddjunit5\airconditioning\ThermometerTest.class
+com\pluralsight\tddjunit5\airconditioning\AirConditioningSystemTest.class
+com\pluralsight\tddjunit5\database\StatisticsTest.class
+com\pluralsight\tddjunit5\database\DatabaseAccessTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$PremiumFlightTest$UsualPassengerTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$EconomyFlightTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$BusinessFlightTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$PremiumFlightTest$VipPassengerTest.class
+com\pluralsight\tddjunit5\milage\MilageTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$BusinessFlightTest$VipPassengerTest.class
+com\pluralsight\tddjunit5\MockitoExtension.class
+com\pluralsight\tddjunit5\airport\AirportTest$PremiumFlightTest.class
+com\pluralsight\tddjunit5\airport\AirportTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$BusinessFlightTest$UsualPassengerTest.class
+com\pluralsight\tddjunit5\milage\FlightArgumentConverter.class
+com\pluralsight\tddjunit5\airport\AirportTest$EconomyFlightTest$UsualPassengerTest.class
+com\pluralsight\tddjunit5\airport\AirportTest$EconomyFlightTest$VipPassengerTest.class
